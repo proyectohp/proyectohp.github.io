@@ -57,7 +57,6 @@ form{
 	margin:calc(40vh - 220px) auto;
 	padding:20px 30px;max-width:calc(100vw - 40px);
 	box-sizing:border-box;
-	position:relative;
 	font-family:HarryPotter;
 	z-index: -5;
 }
